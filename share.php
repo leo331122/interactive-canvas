@@ -54,7 +54,7 @@
 	<div id="MainContainer">
 
 		<div id="img">
-			<img src="/photos/<?php echo $_GET['id']; ?>.jpg" width="100%" />
+			<img src="/photos/<?php echo $_GET['id']; ?>.gif" width="100%" />
 		</div>
 
 		<div id="message">Please share with your friends and family. You can press and hold on the image to save to your phone.</div>
